@@ -3,20 +3,20 @@
 Education 
 ############
 
-College/University
+Harvard University
 **********************
 
-*Degree*
+*Masters of Divinity*
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ultricies massa et erat luctus hendrerit. Curabitur non consequat enim. Vestibulum bibendum mattis dignissim. Proin id sapien quis libero interdum porttitor.
+Deep, deep stuff.
 
 
-College/University
+Southwest Tennessee Community College 
 **********************
 
-*Degree*
+*Plumbing Certificate*
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ultricies massa et erat luctus hendrerit. Curabitur non consequat enim. Vestibulum bibendum mattis dignissim. Proin id sapien quis libero interdum porttitor.
+Deep, deep stuff.
 
 
 

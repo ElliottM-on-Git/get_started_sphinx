@@ -7,12 +7,12 @@ Key Skills Experience
    :widths: 50 50 50
    :header-rows: 1
 
-   * - Skill Type 1
-     - Skill Type 2
-     - Skill Type 3
-   * - Skill
-     - Skill
-     - Skill
-   * - Skill
-     - Skill
-     - Skill
+   * - Karate
+     - Ax Throwing
+     - Theology
+   * - Nunchucks
+     - Blade Sharpening
+     - Bible Study
+   * - Pressure Point Manipulation
+     - Emergency First Aide
+     - Meditation

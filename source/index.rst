@@ -1,4 +1,4 @@
-Sample Resume with Sphinx
+Rutherford Tabernackle
 ###############################
 
 
@@ -6,8 +6,8 @@ Sample Resume with Sphinx
          :name: my picture
          :width: 30%
 
-Mark Hoeber
-Instructor, Middlesex Community College
+Rutherford Tabernackle
+Guy, World
 
 
 |Contents|

@@ -7,7 +7,7 @@ Rutherford Tabernackle
          :width: 30%
 
 Rutherford Tabernackle
-Guy, World
+Guy in the World
 
 
 |Contents|

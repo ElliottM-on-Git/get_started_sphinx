@@ -6,7 +6,7 @@ Rutherford Tabernackle
          :name: my picture
          :width: 30%
 
-Rutherford Tabernackle
+Rutherford Tabernackle,
 Guy in the World
 
 

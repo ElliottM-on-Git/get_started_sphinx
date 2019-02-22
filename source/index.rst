@@ -2,7 +2,7 @@ Rutherford Tabernackle
 ###############################
 
 
-.. image:: images/github-photo.png
+.. image:: 15594f063c78b4450fcd4ad1ce2bfbcb.jpg
          :name: my picture
          :width: 30%
 

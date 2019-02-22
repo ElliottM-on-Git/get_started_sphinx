@@ -2,7 +2,7 @@ Rutherford Tabernackle
 ###############################
 
 
-.. image:: 15594f063c78b4450fcd4ad1ce2bfbcb.jpg
+.. image::  get_started_sphinx/source/images/15594f063c78b4450fcd4ad1ce2bfbcb.jpg
          :name: my picture
          :width: 30%
 

@@ -1,3 +1,4 @@
 
 
 .. |Contents| replace:: Table of Contents
+.. |Code Blue| replace:: Hello, friends.

@@ -6,4 +6,4 @@ This is a page I'm "tacking on" post-assignment to continue honing my RST skills
 Breadth
 ******************************************
 
-|Code Blue|
+|CodeBlue|

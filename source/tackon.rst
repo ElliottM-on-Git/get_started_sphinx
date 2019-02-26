@@ -13,3 +13,5 @@ See, I'm testing out RST substitutions. That's the meaning of the above |CodeBlu
 .. caution:: I can at times be facetious.
 
 .. note:: Many people think the U.S. faked the moon landing.
+
+**THE END FOR NOW**

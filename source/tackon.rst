@@ -8,4 +8,4 @@ Breadth
 
 |CodeBlue|
 
-See, I'm testing out RST substitutions. That's the meaning of the above |CodeBlue| In GitHub, I'm writing something else, but it's coming ut on this page as |CodeBlue| Wild!
+See, I'm testing out RST substitutions. That's the meaning of the above |CodeBlue| In GitHub, I'm writing something else, but it's coming out on this page as |CodeBlue| Wild!

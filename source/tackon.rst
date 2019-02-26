@@ -14,4 +14,4 @@ See, I'm testing out RST substitutions. That's the meaning of the above |CodeBlu
 
 .. note:: Many people think the U.S. faked the moon landing.
 
-**THE END FOR NOW**
+**THE END (FOR NOW)**

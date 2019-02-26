@@ -19,6 +19,7 @@ Guy in the World
    experience
    skills
    education
+   tackon
 
 
 .. add new files to list above to include them in toc
